@@ -1,0 +1,5 @@
+/Users/falconijo/Projects/ArrayPractice/ArrayPractice/bin/Debug/ArrayPractice.exe
+/Users/falconijo/Projects/ArrayPractice/ArrayPractice/bin/Debug/ArrayPractice.pdb
+/Users/falconijo/Projects/ArrayPractice/ArrayPractice/obj/x86/Debug/ArrayPractice.csproj.CoreCompileInputs.cache
+/Users/falconijo/Projects/ArrayPractice/ArrayPractice/obj/x86/Debug/ArrayPractice.exe
+/Users/falconijo/Projects/ArrayPractice/ArrayPractice/obj/x86/Debug/ArrayPractice.pdb
